@@ -1,13 +1,4 @@
 # Auto-generated navigation
-- slug: "sample-page"
-  title: "Sample Page"
-  type: page
-
-- slug: "hello-world"
-  title: "Hello world!"
-  type: post
-  date: "2021-08-16"
-  categories: ["Uncategorized"]
 
 - slug: "week-1-customizing-the-course"
   title: "Week 1: Customizing the Course"
